@@ -1,2 +1,3 @@
 # Cache-Buffer
-Data Structures and Algorithms 
+
+A simple cache buffer written in C.
